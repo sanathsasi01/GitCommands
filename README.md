@@ -1,4 +1,4 @@
 # demo readme
 
 
-thus checking
+just checking
